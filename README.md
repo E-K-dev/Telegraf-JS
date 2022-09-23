@@ -3,7 +3,7 @@
 > ****Un repositorio en el cual estare subiendo diferentes bots de telegram utilizando la api de Telegraf****
 
 # ****Dependencias**** #
-> *******Telegraf Api V4.9 o superior^*******
+> *******Telegraf Api V4.9^*******
 
 # ****Pasos para la instalacion**** #
 1. ****Selecciona la carpetas que quiere probar el bot.****

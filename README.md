@@ -9,7 +9,7 @@
 
 # ****Pasos para la instalacion**** #
 1. ****Seleccione una carpeta de ejemplo para probar los distintos bots.****
-2. ****Con una terminal ejecute el comando****
+2. ****Con una terminal (dentro de la carpeta elegida) , ejecute el comando****
 > ****npm i --save****
 3. ****Edite la variable mytoken en el app.js.****
 4. ****Finalmente lanze el archivo app.js con node js.!****

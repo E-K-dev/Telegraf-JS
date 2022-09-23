@@ -19,3 +19,4 @@
 > ****npm i --save****
 3. ****Edite en el archivo "app.js" , la variable "mytoken" con el token de botfather.****
 4. ****Finalmente lanze el archivo app.js con node js.!****
+> ****node app.js****

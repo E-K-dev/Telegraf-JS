@@ -4,6 +4,12 @@
 
 > ****Un repositorio en el cual estare subiendo diferentes bots de telegram utilizando la api de Telegraf****
 
+# ****Datos de la api utilizada****
+
+> ****Documentacion : https://telegrafjs.org/#/****
+
+> ****Paguina de la api: https://telegraf.js.org/****
+
 # ****Dependencias**** #
 > *******Telegraf Api V4.9^*******
 

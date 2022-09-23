@@ -9,5 +9,5 @@
 1. ****Selecciona la carpetas que quiere probar el bot.****
 2. ****Con una terminal ejecute el comando****
 > ****npm i --save****
-3. ****Luego cree un token para el bot o edite el app.js.****
+3. ****Edite la variable mytoken en el app.js.****
 4. ****Finalmente lanze el archivo app.js con node js.!****

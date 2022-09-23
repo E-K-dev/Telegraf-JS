@@ -8,7 +8,7 @@
 > *******Telegraf Api V4.9^*******
 
 # ****Pasos para la instalacion**** #
-1. ****Selecciona la carpetas que quiere probar el bot.****
+1. ****Seleccione una carpeta de ejemplo para probar los distintos bots.****
 2. ****Con una terminal ejecute el comando****
 > ****npm i --save****
 3. ****Edite la variable mytoken en el app.js.****

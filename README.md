@@ -17,5 +17,5 @@
 1. ****Seleccione una carpeta de ejemplo para probar los distintos bots.****
 2. ****Con una terminal (dentro de la carpeta elegida) , ejecute el comando****
 > ****npm i --save****
-3. ****Edite el app.js , en la variable "mytoken" con el token de botfather.****
+3. ****Edite en el archivo "app.js" , la variable "mytoken" con el token de botfather.****
 4. ****Finalmente lanze el archivo app.js con node js.!****
